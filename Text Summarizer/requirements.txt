@@ -1,0 +1,10 @@
+transformers
+python-docx
+fpdf
+streamlit
+pillow
+requests
+PyPDF2
+beautifulsoup4
+selenium
+webdriver-manager
